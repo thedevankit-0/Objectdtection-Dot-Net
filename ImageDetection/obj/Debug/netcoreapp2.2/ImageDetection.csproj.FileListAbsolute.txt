@@ -1,0 +1,22 @@
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.deps.json
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.runtimeconfig.json
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.runtimeconfig.dev.json
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.dll
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.pdb
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.csproj.CoreCompileInputs.cache
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.AssemblyInfoInputs.cache
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.AssemblyInfo.cs
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.dll
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.pdb
+D:\MACHINE LEARNING\ImageDetection\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.csprojAssemblyReference.cache
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.deps.json
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.runtimeconfig.json
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.runtimeconfig.dev.json
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.dll
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\bin\Debug\netcoreapp2.2\ImageDetection.pdb
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.csprojAssemblyReference.cache
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.csproj.CoreCompileInputs.cache
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.AssemblyInfoInputs.cache
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.AssemblyInfo.cs
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.dll
+D:\MACHINE LEARNING\Wroking Examples\ImageDetection - Copy\ImageDetection\obj\Debug\netcoreapp2.2\ImageDetection.pdb
